@@ -1,0 +1,9 @@
+From 002d79618d86b37f7523e3bbb434cd657a963e31 Mon Sep 17 00:00:00 2001
+From: "LAPTOP-QC0V6SG1\\heyhe" <11050034@me.mcu.edu.tw>
+Date: Thu, 21 Sep 2023 21:59:04 +0800
+Subject: [PATCH] Revert "git init"
+
+This reverts commit ad22354cea5e1e01fe661abeaa3e432087f60a8d.
+-- 
+2.42.0.windows.2
+
